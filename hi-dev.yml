@@ -1,3 +1,6 @@
 who:
  am:
   i: dev-hi
+
+hi:
+ value: dev-test-value

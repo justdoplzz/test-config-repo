@@ -3,4 +3,4 @@ who:
   i: dev-hi
 
 hi:
- value: change-test-value~
+ value: config-test-value~ change one more time!
